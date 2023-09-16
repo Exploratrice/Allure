@@ -1,1 +1,1 @@
-![allure](https://github.com/Exploratrice/Allure/assets/86781143/bbc0d4e6-3b20-4a41-aed0-02b62ee46aae)
+![allure](https://github.com/Exploratrice/Allure/assets/86781143/7354d423-ca4c-486f-830a-5ea34b7744fe)
