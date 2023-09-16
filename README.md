@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/2lmsevmegnc8khw7/branch/main?svg=true)](https://ci.appveyor.com/project/Exploratrice/patternstask1/branch/main)
+![allure](https://github.com/Exploratrice/Allure/assets/86781143/bbc0d4e6-3b20-4a41-aed0-02b62ee46aae)
